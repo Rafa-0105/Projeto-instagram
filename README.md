@@ -1,2 +1,2 @@
-# Projeto-instagram
+# Projeto Instagram
 Front-end Instagram
